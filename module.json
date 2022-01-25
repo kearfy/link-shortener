@@ -1,0 +1,12 @@
+{
+    "name": "Link shortener",
+    "module": "link-shortener",
+    "description": "Easily create a short link from your dashboard.",
+    "author": "Micha de Vries",
+    "version": "1.0.0",
+    "repository": "https://github.com/kearfy/link-shortener",
+    "license": "GPLv3",
+    "listed-in": [
+        "https://raw.githubusercontent.com/pbcms/updates/main/modules/stable.json"
+    ]
+}

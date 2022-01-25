@@ -1,0 +1,11 @@
+.new-link form input {
+    width: calc(40% - 63px);
+    height: 20px;
+    background-color: #eee;
+    padding: 12px 24px;
+    border: none;
+    margin: none;
+    outline: none;
+    margin-right: 25px;
+    border-radius: 5px;
+}
